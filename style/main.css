@@ -70,7 +70,8 @@ header nav a:hover {
     color: white;
     padding: 15px;
     margin-left: 15px;
-    font-size: 12px;
+    margin-bottom: 90px;
+    font-size: 18px;
     cursor: pointer;
     transition: .3s ease all;
 }
@@ -82,4 +83,11 @@ header nav a:hover {
 
 .botao i {
     margin-right: 8px;
+    font-size: 22px;
+}
+
+.box-filme {
+    height: 100%;
+    width: 100%;
+    display: block;
 }
